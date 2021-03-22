@@ -1,7 +1,7 @@
 # snake-game
 A simple snake game using react
 
-Do "]yarn install" after navigating to the folder to install node modules.
+Do "yarn install" after navigating to the folder to install node modules.
 Then do "yarn start" to get the app running.
 
 Use arrow keys to play.
