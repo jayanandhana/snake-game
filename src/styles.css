@@ -1,0 +1,35 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(10, 20px);
+    grid-template-rows: repeat(10, 20px);
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+.score-board{
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    font-size: 15px;
+    color:cornflowerblue;
+}
+.game{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: teal;
+}
+.grid-item{
+    background-color:teal;
+}
+
+.info{
+    color:cornflowerblue;
+}
+
+.emoji{
+    font-size: 50px;
+}
